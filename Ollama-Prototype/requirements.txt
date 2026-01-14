@@ -3,3 +3,5 @@ python-dotenv
 pydantic
 tqdm
 scikit-learn
+streamlit
+pandas
