@@ -1,0 +1,96 @@
+{
+  "ranking": [
+    {
+      "cv_id": "cv5",
+      "fit_score": 0.408,
+      "invite": "yes",
+      "strengths": [
+        "Six years of professional web development experience",
+        "Familiarity with e-commerce and payment integrations",
+        "Demonstrated project management and collaboration skills"
+      ],
+      "gaps": [
+        "No explicit mention of PHP framework experience required",
+        "Limited evidence of API design and system integration",
+        "No direct cloud or performance optimization experience"
+      ],
+      "reason": "Strong web development background with payment integration exposure, but lacks specific PHP framework experience."
+    },
+    {
+      "cv_id": "cv1",
+      "fit_score": 0.27,
+      "invite": "no",
+      "strengths": [
+        "5+ years front-end development experience",
+        "Experience with API integration and development",
+        "Strong JavaScript/TypeScript skills"
+      ],
+      "gaps": [
+        "No professional PHP framework experience (Laravel/Symfony/Doctrine)",
+        "Limited database experience mentioned (SQL/NoSQL)",
+        "No cloud/infrastructure or payment domain experience"
+      ],
+      "reason": "Front-end and API experience present, but missing core PHP framework and database skills."
+    },
+    {
+      "cv_id": "cv2",
+      "fit_score": 0.066,
+      "invite": "no",
+      "strengths": [
+        "Strong accounting and financial analysis background",
+        "Experience with financial data management and reporting",
+        "Skilled in process improvement and efficiency optimization"
+      ],
+      "gaps": [
+        "No professional PHP or framework experience",
+        "No API development or integration experience",
+        "No relational database technical skills"
+      ],
+      "reason": "Strong financial background but lacks technical PHP and API development experience."
+    },
+    {
+      "cv_id": "cv4",
+      "fit_score": 0.032,
+      "invite": "no",
+      "strengths": [
+        "Strong communication and interpersonal skills",
+        "Proven ability to train and mentor others",
+        "Experience managing teams and processes"
+      ],
+      "gaps": [
+        "No professional PHP or framework experience",
+        "No API development or integration experience",
+        "No database experience with SQL/NoSQL"
+      ],
+      "reason": "Excellent soft skills but completely lacks required PHP and technical infrastructure experience."
+    },
+    {
+      "cv_id": "cv3",
+      "fit_score": 0.0,
+      "invite": "no",
+      "strengths": [
+        "Management experience",
+        "Staff development skills",
+        "Process improvement ability"
+      ],
+      "gaps": [
+        "No PHP or framework experience",
+        "No API development skills",
+        "No database experience"
+      ],
+      "reason": "Management-focused profile with no relevant PHP engineering experience."
+    }
+  ],
+  "recommendation": {
+    "invite": [
+      "cv5"
+    ],
+    "reject": [
+      "cv1",
+      "cv2",
+      "cv3",
+      "cv4"
+    ]
+  },
+  "notes": "Only cv5 shows relevant web development experience and payment integration exposure. All candidates lack specific PHP framework experience required for this role."
+}

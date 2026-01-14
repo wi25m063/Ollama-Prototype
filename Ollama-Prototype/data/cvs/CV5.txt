@@ -1,0 +1,35 @@
+Unahi Amari
+(555)123-4567 | example@email.com | West Brooklyn, IL
+Summary
+Fast-paced, creative web developer with 6 years of experience with extensive knowledge of HTML, CSS, JavaScript, XHTML, JQuery, PHP and other web programming languages. Strong proficiency in visual design and user interface design.
+Experience
+Zomby Wolf | Los Angeles, California
+Web Developer | January 2019 - Present
+Developed and maintained a development platform for managing online stores, with a custom in-house CMS, marketing automation, analytics and social media
+Implemented a DevOps methodology for continuous deployment, allowing for multiple developers and business teams to collaborate and release changes simultaneously
+Ran project meetings and assigned tasks to specialized teams and project managers to ensure smooth communication and execution
+Created a customer relationship management system for tracking email and web-based sales leads
+Created a website for the company that included a custom domain, video, product imagery and integrated email marketing
+Implemented online surveys to collect customer feedback and track satisfaction, which resulted in a 35% increase in online sales
+Created a system for tracking customer orders from receipt to delivery
+Designed and compiled data for monthly reports that prioritize and track progress on initiatives, such as website performance, digital marketing and social media
+What Does the Wind Blow | Los Angeles, California
+Web Developer | September 2017
+Built a new website that focused on improving customer satisfaction, increasing user engagement and maximizing customer retention
+Designed a new system of internal and external reports for senior management, including key metrics and analytics
+Improved functionality and usability of a video chat system by implementing new features, such as video recording, audio calling and video conferencing
+Implemented a full audit of all back-end systems and developed a plan for remediation
+Developed an application to allow the company to accept and complete credit card payments online
+Busy Bee | Los Angeles, California
+Web Developer | January 2016
+Maintained custom websites for 12 different clients
+Designed and developed a new website for a client
+Helped improve the speed of search engine optimization and designed an interactive landing page for client
+Created a new website for a client
+Helped build a social media program for client
+Designed and built a new website for a client
+Skills
+Communication Skills, Git, Sql, Css, Javascript, Jquery, Html5
+Education
+Krebs Mountain College | Los Angeles, California
+Bachelor's Degree in Computer Science

@@ -1,0 +1,33 @@
+PHP Engineer
+Our mission at IXOPAY is to secure and optimize payments for global commerce. We’re building an integrated platform that optimizes payment transactions and protects payments data. For merchants who understand that payments are now a strategic function, IXOPAY is a complete payments optimization platform that delivers best-in-class tokenization and transaction routing. Unlike point solutions, IXOPAY delivers omnichannel tokenization, card lifecycle management, and smart routing via any payments service provider — giving merchants unprecedented control over their revenue and the competitive edge to thrive in global commerce.
+
+We believe our people are our most valuable asset and that our culture is defined by our core values that align the organization with our mission and strategy. As a Software Engineer, you will play an important role in contributing to the team’s goals. You will be working alongside a team of experienced engineers in a fast-paced, collaborative environment to design, develop, and test new features that enhance our product’s capabilities and user experience for our customers. This is an excellent opportunity to further develop your skills while making a tangible impact on IXOPAY’s product offerings.
+
+Position Responsibilities
+Deliver high performance software solutions using established software architecture patterns and best practices in PHP
+Design, develop, document, and deploy features and applications in our datacenters and cloud environments
+Ensure application security, performance, uptime, and scalability
+Collaborate with the Product Management team and Engineering leadership on new features and functionality
+Demonstrate an ongoing passion for learning and improving the IXOPAY platform, the payment markets, and client use cases
+Maintain and evolve our infrastructure to support the growing volume of products, APIs and integrations.
+Requirements
+Several years of professional experience in software development with PHP and common PHP frameworks (e.g., Laravel, Symfony, Doctrine)
+Solid knowledge in web technologies and relational and non-relational databases
+Very good English skills, comfortable with consuming and writing API documentation
+General knowledge of distributed systems, complex APIs and API design
+Can design software components for scalability, testability, supportability and maintainability
+Can balance attention to detail and pragmatic approaches as applicable
+Understands the product and software development process and tooling (preferably Agile).
+What We'll Offer:
+We offer you a friendly and open working atmosphere in a modern, easily accessible office.
+All team members receive a company notebook
+Hybrid working is possible (office/home office).
+We provide an annual public transport pass for Vienna.
+You will always find free coffee, tea & fruits.
+IXO Fitness: All employees have free and automatic access to numerous gyms and sports activities via the myClubs app.
+Numerous team and company events also bring variety to your daily work life.
+Salary
+The collective agreement minimum salary is 3,843 € gross per month (on a 38.5-hour basis). The salary is paid 14 times per year. The collective agreement Informationstechnologie, Datenverarbeitung (IT) applies. The actual salary will be discussed in the interview process and is market level pay above the CLA.
+
+Overtime
+Any accrued overtime is partially compensated in the form of time off and partially paid out.

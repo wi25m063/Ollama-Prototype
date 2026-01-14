@@ -1,0 +1,41 @@
+Kemal Yildiz
+Germantown, KY
+
+example@email.com
+
+(555)123-4567
+
+Summary
+Able front end developer with 5 years of experience designing and building web-based tools, working with development frameworks like AngularJS, Bootstrap and HTML5.
+Education
+Springfield University
+Bachelor's Degree in Computer Science • Chicago, Illinois
+Skills
+Communication Skills, Javascript, Css, Typescript, Html5, Node.Js, Apis
+Experience
+Cloud Code
+October 2019 - Present
+Front End Developer • Chicago, Illinois
+Implemented new website features including conditional logic, data filters and pricing models
+Improved our global search engine ranking by +200 by implementing Google’s Page Speed toolkit
+Increased revenue through upsells and cross-selling
+Improved customer satisfaction score by +24% (based on performance metrics)
+Performed statistical analyses for reports and projects relating to potentially sensitive information loss, such as business strategies and clients
+Organized and maintained data for all employees, including employee data, contact information and skills
+Supervised the assistance of 3 new employees
+Pixel Digit
+November 2017
+Front-End Web Developer • Chicago, Illinois
+Developed new web and mobile applications that have been deployed across multiple platforms
+Responsible for the design and maintenance of the company's website, including marketing site, promotional site, blog, sales site and customer service site
+Repaired and maintained all company websites in a timely manner
+Managed a team of 4 front-end developers and designers
+Created new applications from scratch using HTML, CSS and JavaScript
+Responsible for maintaining all company websites in a timely manner
+Wiredwaves
+September 2016
+Front End Developer • Chicago, Illinois
+Built, maintained and integrated the company's new website for a cost savings of $5,000
+Was responsible for the creation of more than 5,500 lines of code, a new PHP framework, and a new front-end UI framework to create a new responsive website
+Created and maintained new tools, including a new CMS, a new file management system and a new workflow system
+Converted the old website from HTML to a new responsive HTML5 framework
