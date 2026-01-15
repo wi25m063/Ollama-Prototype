@@ -87,7 +87,8 @@ We built a small, reproducible CV-screening prototype that uses local/remote Oll
 
 ## How to run
 ```bash
-python -m venv .venv && source .venv/bin/activate
+python -m venv .venv 
+source .venv/bin/activate
 pip install -r requirements.txt
 
 # ensure Ollama is running and the model is available
